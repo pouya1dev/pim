@@ -2,12 +2,6 @@
 <img src="logopim.png" height="100" width="100"/>
 </center>
 
-## Quick Install (Linux/macOS)
-
-```bash
-curl -sL https://raw.githubusercontent.com/pouya1dev/lpa/main/install.sh | bash
-```
-
 <h1 style="font-weight:bold;"> P/PIM</h1>
 <h1 style="font-weight:bold;">What is PIM?</h1>
 Pim is a interperter written in nim for P/. Also it for educational.
