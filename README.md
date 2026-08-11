@@ -1,5 +1,5 @@
 <center>
-<img src="logo.jpg" height="100" width="100"/>
+<img src="logopim.png" height="100" width="100"/>
 </center>
 
 ## Quick Install (Linux/macOS)
